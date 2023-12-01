@@ -1,5 +1,5 @@
 # encryption-algorithms
-the repository contains 4 encryption algorithms
+the repository contains 5 encryption algorithms
 
 ### Laboratory work on information protection 
 
